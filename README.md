@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
  ![Mock](src/images/mock.png)
+ [Top Rated Movies DEMO](https://infallible-benz-52e21b.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
